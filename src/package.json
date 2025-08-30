@@ -1,0 +1,18 @@
+{
+  "name": "tvet-ecosystem",
+  "version": "1.0.0",
+  "description": "Comprehensive TVET ecosystem with user, company, and admin dashboards",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "lucide-react": "^0.263.1",
+    "recharts": "^2.8.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
